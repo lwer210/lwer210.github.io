@@ -5,6 +5,8 @@ categories: [iOS, Swift]
 image: /assets/img/frontimage/Swift_변수에_대해_알아보자.png
 ---
 
+# Swift - 변수에 대해서 알아보자.
+
 >Swift에서 사용하는 변수에 대해서 알아보자.
 
 ### 변수란 무엇일까??
