@@ -5,8 +5,10 @@ categories: [iOS, Swift]
 tags: [swift, type, string]
 ---
 
-> 전 포스팅에서 잠깐 다뤘던 문자열에 대해서 자세하게 알아보자. <br>
-> [Swift - 변수의 타입에 대해 알아보자.](https://petoflse.github.io/posts/swiftvariabletype/)
+Swift에서 문자열이 어떤식으로 이루어져 있고 어떤식으로 사용할 수 있는지에 대해서 자세하게 알아보자. <br>
+
+전 포스팅에서 아주아주 기초적인 부분만 다뤘었다.. <br>
+[Swift - 변수의 타입에 대해 알아보자.](https://petoflse.github.io/posts/swiftvariabletype/)
 
 # 문자열이란?
 문자열이란 문자들의 집합으로 **그래핌 클러스터의 형태**로 저장된다.
