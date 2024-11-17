@@ -2,6 +2,7 @@
 title: Swift - 변수에 대해서 알아보자.
 date: 2024-11-17 05:03:00 +09:00
 categories: [iOS, Swift]
+tags: [swift, variable]
 ---
 
 >Swift에서 사용하는 변수에 대해서 알아보자.
