@@ -1,5 +1,5 @@
 ---
-title: [Swift] - Swift 변수에 대해 알아보자.
+title: "[Swift] - Swift 변수에 대해 알아보자."
 date: 2024-11-17 05:03:00 +09:00
 categories: [iOS, Swift]
 image: /assets/img/frontimage/Swift_변수에_대해_알아보자.png
