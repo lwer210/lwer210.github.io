@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: leecode 개발 블로그 # the main title
+title: 미숙한 개발 블로그 # the main title
 
 tagline: Swift, Spring, Vue.js 개발 공부 블로그 # it will display as the subtitle
 
