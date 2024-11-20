@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 어린 개발 블로그 # the main title
 
-tagline: Swift, Spring, Vue.js 개발 공부 블로그 # it will display as the subtitle
+tagline: 웹/앱 개발 공부 블로그 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Swift, Spring, Vue.js 개발 공부 블로그
