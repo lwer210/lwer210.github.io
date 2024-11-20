@@ -99,7 +99,7 @@ if let exampleSon = exampleParent as? ExampleSon{
 업캐스팅: 하위 객체를 상위 객체로 변환
 - as 키워드 사용
 - 안전성 O
-- 
+  
 다운 캐스팅: 상위 객체를 하위 객체로 변환
 - as! 키워드 사용
 - 안전성 X
