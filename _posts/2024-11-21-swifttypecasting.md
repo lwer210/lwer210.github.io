@@ -76,6 +76,7 @@ var exampleSon: ExampleSon = exampleParent as! ExampleSon // error: Execution wa
 > error: Execution was interrupted, reason: signal SIGABRT. <br>잘못된 타입 캐스팅으로 인한 에러
 
 이러한 위험성을 조금 줄일 방법이 없을까??
+
 다행히도 Swift에는 **as? 키워드를 이용한 옵셔널 바인딩을 사용해서 다운캐스팅에 위험을 줄일 수 있다**.
 
 ### 옵셔널 바인딩 다운 캐스팅
