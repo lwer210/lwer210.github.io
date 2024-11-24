@@ -1,7 +1,7 @@
 ---
 title: HTML - HTML에 기본 구조에 대해서 알아보자.
 date: 2024-11-24 02:22:00 + 09:00
-categories: [Web, Html]
+categories: [Web, Frontend]
 tags: [web, html]
 ---
 
