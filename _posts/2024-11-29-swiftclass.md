@@ -2,7 +2,7 @@
 title: Swift - 클래스 대해 알아보자.
 date: 2024-11-29 00:26:00 + 09:00
 categories: [iOS, Swift]
-tags: [swift, Class]
+tags: [swift, class]
 ---
 
 함수와 클로저를 지나 오늘은 클래스에 대해서 공부를했다.<br>
