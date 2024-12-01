@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://petoflse.github.io/sitemap.xml
