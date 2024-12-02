@@ -151,3 +151,5 @@ age = "20" //error: siwft-basics-1.playground:46:7: error: cannot assign value o
 ## 🗂️ **정리**
 Swift는 타입 안전성을 굉장히 중요하게 여기기 때문에 데이터 타입은 굉장히 중요한 부분이다. Int, String, Bool, Double 등 데이터 타입에 대해서는 꼭 알고 넘어가는게 좋다.
 
+## 📚 **참고자료**
+- [핵심만 골라 배우는 SwiftUI 기반의 iOS 프로그래밍], 닐 스미스 저, 황반석 옮김, 제이펍 출판
