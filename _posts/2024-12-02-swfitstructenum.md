@@ -1,6 +1,6 @@
 ---
 title: Swift - 구조체에 대해서 알아보자.
-date: 2024-12-02 09:10:00 + 09:00
+date: 2024-12-02 00:10:00 + 09:00
 categories: [iOS, Swift]
 tags: [swift, struct]   
 ---
