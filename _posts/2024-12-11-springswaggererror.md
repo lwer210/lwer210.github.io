@@ -21,8 +21,8 @@ java.lang.nosuchmethoderror: 'void org.springframework.web.method.controlleradvi
 ```
 이 에러의 원인은 해당 메서드를 찾지 못했을때 발생하는데 흔히 의존성에 버전 차이로 인해 발생하는 경우가 많다고 한다.
 
-도저히 답이 안나오자 swagger를 가장 최신 버전으로 바꿔볼까 하는 마음으로 maven repository에 있는 swagger에 가장 최신 버전을 가져와서<br>
-버전 업데이트를 해줬다.
+도저히 답이 안나오자 swagger를 가장 최신 버전으로 바꿔볼까 하는 마음으로 maven repository에 있는<br>
+swagger에 가장 최신 버전을 가져와서 버전 업데이트를 해줬다.
 
 ```
 implementation group: 'org.springdoc', name: 'springdoc-openapi-starter-webmvc-ui', version: '2.7.0'
