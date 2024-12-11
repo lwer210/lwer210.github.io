@@ -1,6 +1,6 @@
 ---
 title: Swift - 함수에 대해서 알아보자.
-date: 2024-11-27 00:09:00 + 09:00
+date: 2024-11-27 00:09:00 
 categories: [iOS, Swift]
 tags: [swift, function]
 ---

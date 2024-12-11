@@ -1,6 +1,6 @@
 ---
 title: Swift - 클래스 상속에 대해 알아보자.
-date: 2024-12-01 00:10:00 + 09:00
+date: 2024-12-01 00:10:00 
 categories: [iOS, Swift]
 tags: [swift, class]
 ---

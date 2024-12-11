@@ -1,6 +1,6 @@
 ---
 title: Swift - 문자열에 대해서 알아보자.
-date: 2024-11-17 10:15:00 +09:00
+date: 2024-11-17 10:15:00 
 categories: [iOS, Swift]
 tags: [swift, type, string]
 ---

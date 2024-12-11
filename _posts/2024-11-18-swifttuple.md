@@ -1,6 +1,6 @@
 ---
 title: Swift - 튜플에 대해서 알아보자.
-date: 2024-11-18 01:12:00 + 09:00
+date: 2024-11-18 01:12:00 
 categories: [iOS, Swift]
 tags: [swift, tuple]
 ---

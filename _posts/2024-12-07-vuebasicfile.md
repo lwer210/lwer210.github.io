@@ -1,6 +1,6 @@
 ---
 title: Vue.js - Vue에 기본 구조에 대해서 알아보자.
-date: 2024-12-07 11:01:00 + 09:00
+date: 2024-12-07 11:01:00 
 categories: [Web, Frontend]
 tags: [vue, directory]   
 ---

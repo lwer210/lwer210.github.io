@@ -1,6 +1,6 @@
 ---
 title: Swift - 반복문에 대해 알아보자.
-date: 2024-11-24 04:49:00 + 09:00
+date: 2024-11-24 04:49:00 
 categories: [iOS, Swift]
 tags: [swift, for, while]
 ---

@@ -1,6 +1,6 @@
 ---
 title: HTML - 부모 자식 관계에 대해서 알아보자.
-date: 2024-11-24 10:35:00 + 09:00
+date: 2024-11-24 10:35:00 
 categories: [Web, Frontend]
 tags: [html, element]
 ---

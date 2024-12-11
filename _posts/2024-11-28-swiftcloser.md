@@ -1,6 +1,6 @@
 ---
 title: Swift - 클로저, 클로저 표현식에 대해서 알아보자.
-date: 2024-11-28 00:00:00 + 09:00
+date: 2024-11-28 00:00:00 
 categories: [iOS, Swift]
 tags: [swift, Closure]
 ---

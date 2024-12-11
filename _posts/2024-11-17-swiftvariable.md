@@ -1,6 +1,6 @@
 ---
 title: Swift - 변수에 대해서 알아보자.
-date: 2024-11-17 05:03:00 +09:00
+date: 2024-11-17 05:03:00 
 categories: [iOS, Swift]
 tags: [swift, variable]
 ---

@@ -1,6 +1,6 @@
 ---
 title: Swift - 프로퍼티 래퍼에 대해서 알아보자.
-date: 2024-12-04 00:56:00 + 09:00
+date: 2024-12-04 00:56:00 
 categories: [iOS, Swift]
 tags: [swift, wrapper]   
 ---
