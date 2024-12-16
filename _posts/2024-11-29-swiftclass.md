@@ -1,6 +1,6 @@
 ---
 title: Swift - 클래스 대해 알아보자.
-date: 2024-11-29 00:26:00 
+date: 2024-11-29 00:26:00 + 09:00
 categories: [iOS, Swift]
 tags: [swift, class]
 ---

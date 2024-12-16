@@ -1,6 +1,6 @@
 ---
 title: Swift - Swift에 타입 캐스팅에 대해서 알아보자.
-date: 2024-11-21 02:07:00 
+date: 2024-11-21 02:07:00 + 09:00
 categories: [iOS, Swift]
 tags: [swift, type]
 ---

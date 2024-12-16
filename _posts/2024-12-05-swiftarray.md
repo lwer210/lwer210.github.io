@@ -1,6 +1,6 @@
 ---
 title: Swift - 배열과 딕셔너리에 대해서 알아보자.
-date: 2024-12-05 00:05:00 + 
+date: 2024-12-05 00:05:00 + 09:00
 categories: [iOS, Swift]
 tags: [swift, array, dictionary]   
 ---

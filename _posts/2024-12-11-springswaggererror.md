@@ -1,6 +1,6 @@
 ---
 title: "Error - java.lang.NoSuchMethodError: 'void org.springframework.web.method.ControllerAdviceBean.<init>(java.lang.Object)' 오류 해결"
-date: 2024-12-11 02:30:00 
+date: 2024-12-11 02:30:00 + 09:00
 categories: [Error, Spring]
 tags: [error, solved, spring]   
 ---
