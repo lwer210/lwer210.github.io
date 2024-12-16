@@ -10,7 +10,7 @@ tags: [web, backend, spring, schduler, batch]
 
 우선 코드를 보기전 Spring batch를 간략하게 소개하겠다.
 
-## **Spring batch란?**
+## ❓ **Spring batch란?**
 대용량의 데이터를 효율적으로 처리하고 관리할 수 있도록 설계된 Spring 기반의 처리 프레임워크이다.
 
 스프링의 특징들은 아래와 같다.
@@ -31,7 +31,7 @@ tags: [web, backend, spring, schduler, batch]
 
 Spring batch에 대해서 자세하게 다루면 이번 글이 끝이 안날 것 같으니 간단한 개념만 알아보자.
 
-## **Spring batch 기본 개념**
+## 📤 **Spring batch 기본 개념**
 
 ### **Job**
 - Spring batch의 작업 실행 단위
@@ -63,7 +63,7 @@ Spring batch에 대해서 자세하게 다루면 이번 글이 끝이 안날 것
 ### **Step Execution**
 - Step Instane의 실행 정보를 담고있는 객체
 
-## **스케줄러 구현**
+## 🚀 **스케줄러 구현**
 
 RefreshRemomveScheduler.java
 ```java
