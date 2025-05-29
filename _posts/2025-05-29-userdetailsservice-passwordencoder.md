@@ -1,5 +1,5 @@
 ---
-title: Spring Security UserDetails, PasswordEncoder에 대해 알아보자
+title: UserDetails, PasswordEncoder에 대해 알아보자
 date: 2025-05-29 20:00:00 +0900
 categories: [Web, Spring]
 tags: [web, security, spring]
@@ -12,7 +12,7 @@ tags: [web, security, spring]
 오늘은 `UserDetailsService`, `PasswordEncoder`에 개념에 대해 자세하게 알아보자.
 
 ## 💡 **UserDetailsService와 PasswordEncoder**
-먼저 `UserDetailsService와` `PasswordEncoder에` 역할부터 알아보자.
+먼저 `UserDetailsService`와 `PasswordEncoder에` 역할부터 알아보자.
 
 ![Spring Security 인증 프로세스](../assets/img/spring-security-basic.drawio.png)
 
@@ -23,12 +23,12 @@ tags: [web, security, spring]
 두 인터페이스의 역할은 아주 직관적이다.
 
 흐름을 조금만 더 자세하게 살펴자.
-1. 인증 관리자인 `AuthenticationManager가` 인증 공급자인 `AuthenticationProvider`에게 `Authentication` 인증 객체를 넘김
+1. 인증 관리자인 `AuthenticationManager`가 인증 공급자인 `AuthenticationProvider`에게 `Authentication` 인증 객체를 넘김
 2. `Authentication을` 넘겨받은 `AuthenticationProvider는` 구현된 인증 논리대로 `UserDetailsService`를 호출하여 사용자 세부 정보(`UserDetails`)를 조회함
-3. `UserDetails에` 등록된 비밀번호와 넘어온 비밀번호를 비교함
+3. `UserDetails`에 등록된 비밀번호와 넘어온 비밀번호를 비교함
 4. 인증 성공 시 `Authentication` 인증 객체에 인증 성공을 표시한 후 반환
 
-`UserDetailsService와` `PasswordEncoder가` 수행하는 역할은 매우 단순하다.
+`UserDetailsService`와 `PasswordEncoder`가 수행하는 역할은 매우 단순하다.
 
 하지만 두 인터페이스 모두 없어서는 안되는 아주 중요한 요소이며, 인증 프로세스에서는 둘이 한 쌍이라고 생각하면 된다.
 
